@@ -6,7 +6,11 @@
 
 ## 📞 Contact 📞
 <a href="mailto:dbe0717@naver.com">
-    <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white"/> <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/yoonbly_97">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
 <div style="display:flex; flex-direction:row;">
